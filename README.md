@@ -1,4 +1,3 @@
-```markdown
 # Veículos voadores do fututo
 
 ## 📒 Descrição
@@ -33,4 +32,3 @@ Com essa nova mobilidade, viajar torna-se mais rápido, suave e emocionante. As 
 Quando projetamos cidades com carros voadores, por exemplo, não estamos apenas desenhando um cenário utópico; estamos antecipando desafios, explorando soluções e inspirando novas gerações de engenheiros, arquitetos e cientistas. A IA permite que visualizemos como essas tecnologias podem impactar a sociedade, desde a infraestrutura urbana até o comportamento humano e questões ambientais.
 
 Portanto, o grande desafio não é apenas criar imagens e descrições que pareçam reais, mas garantir que essas representações sejam reflexões bem fundamentadas sobre o que pode ser possível.
-```
